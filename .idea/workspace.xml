@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="825cfd9d-74d6-48dc-ab28-5f1cabcdc1fb" name="Changes" comment="Added module geometry-utils and GeometryUtils class">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="825cfd9d-74d6-48dc-ab28-5f1cabcdc1fb" name="Changes" comment="Added area comparison method to GeometryUtils class.&#10;changed version to 1.1.0-SNAPSHOT">
+      <change afterPath="$PROJECT_DIR$/ThreeDimensionalSnapes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreeDimensionalSnapes/src/main/java/figure/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreeDimensionalSnapes/src/main/java/figure/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +57,8 @@
   "keyToString": {
     "Maven.GeometeryLibrary [clean].executor": "Run",
     "Maven.GeometeryLibrary [install].executor": "Run",
+    "Maven.ThreeDimensionalSnapes [install].executor": "Run",
+    "Maven.geometry-utils [clean,install].executor": "Run",
     "Maven.geometry-utils [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -92,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716219539749</updated>
       <workItem from="1716219540887" duration="1438000" />
-      <workItem from="1716220994716" duration="3883000" />
+      <workItem from="1716220994716" duration="5386000" />
     </task>
     <task id="LOCAL-00001" summary="A library of shapes was created according to the assignment.&#10;Shapes: triangle, rectangle, circle.&#10;Can count: area and perimeter&#10;Version 1.0.0">
       <option name="closed" value="true" />
@@ -118,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716225238480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added area comparison method to GeometryUtils class.&#10;changed version to 1.1.0-SNAPSHOT">
+      <option name="closed" value="true" />
+      <created>1716225904176</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716225904176</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +165,7 @@
     <MESSAGE value="A library of shapes was created according to the assignment.&#10;Shapes: triangle, rectangle, circle.&#10;Can count: area and perimeter&#10;Version 1.0.0" />
     <MESSAGE value="Added method getDiameter for Circle&#10;Version 1.1.0" />
     <MESSAGE value="Added module geometry-utils and GeometryUtils class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added module geometry-utils and GeometryUtils class" />
+    <MESSAGE value="Added area comparison method to GeometryUtils class.&#10;changed version to 1.1.0-SNAPSHOT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added area comparison method to GeometryUtils class.&#10;changed version to 1.1.0-SNAPSHOT" />
   </component>
 </project>
