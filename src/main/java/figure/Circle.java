@@ -16,4 +16,8 @@ public class Circle implements GeometricFunction {
     public double getPerimeter() {
         return 2 * Math.PI * radius;
     }
+
+    public double getDiameter() {
+        return 2 * radius;
+    }
 }
