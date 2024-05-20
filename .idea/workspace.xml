@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="825cfd9d-74d6-48dc-ab28-5f1cabcdc1fb" name="Changes" comment="Added method getDiameter for Circle&#10;Version 1.1.0" />
+    <list default="true" id="825cfd9d-74d6-48dc-ab28-5f1cabcdc1fb" name="Changes" comment="Added module geometry-utils and GeometryUtils class">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +53,7 @@
   "keyToString": {
     "Maven.GeometeryLibrary [clean].executor": "Run",
     "Maven.GeometeryLibrary [install].executor": "Run",
+    "Maven.geometry-utils [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -88,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716219539749</updated>
       <workItem from="1716219540887" duration="1438000" />
-      <workItem from="1716220994716" duration="3176000" />
+      <workItem from="1716220994716" duration="3883000" />
     </task>
     <task id="LOCAL-00001" summary="A library of shapes was created according to the assignment.&#10;Shapes: triangle, rectangle, circle.&#10;Can count: area and perimeter&#10;Version 1.0.0">
       <option name="closed" value="true" />
@@ -106,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716223247424</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added module geometry-utils and GeometryUtils class">
+      <option name="closed" value="true" />
+      <created>1716225238480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716225238480</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +129,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -126,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A library of shapes was created according to the assignment.&#10;Shapes: triangle, rectangle, circle.&#10;Can count: area and perimeter&#10;Version 1.0.0" />
     <MESSAGE value="Added method getDiameter for Circle&#10;Version 1.1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added method getDiameter for Circle&#10;Version 1.1.0" />
+    <MESSAGE value="Added module geometry-utils and GeometryUtils class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added module geometry-utils and GeometryUtils class" />
   </component>
 </project>
